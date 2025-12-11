@@ -19,7 +19,7 @@ function calculateAverageGrade(students: Student[]): number {
 }
 console.log("All students:", students);
 console.log("Active students:", getActiveStudents(students));
-console.log("Average grade:", calculateAverageGrade(students));
+console.log("Average grade:", calculateAverageGrade(students)); 
 
 //Checkpoint Questions
 //a. In your own words, explain how filter is used in getActiveStudents.
